@@ -15,7 +15,7 @@ History
 * [History page](../master/history.md)
 
 
-Screetnshot
+Screenshot
 -------
 
 ![screetnshot](../master/screenshot.png?raw=true)
