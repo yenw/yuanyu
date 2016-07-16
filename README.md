@@ -2,8 +2,8 @@
 
 YuanYu is a Go program.
 
-Twitter: yuanyu@yenwcc
-
 Email: yuanyu@yenw.cc
+
+Twitter: https://twitter.com/yenwcc
 
 Github: https://github.com/yenw/yuanyu
