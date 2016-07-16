@@ -7,7 +7,7 @@ Screetnshot
 -------
 
 ![screetnshot](../master/screenshot.png?raw=true)
-
+![screetnshot2](../master/screenshot2.png?raw=true)
 
 Downloads
 -------
@@ -25,6 +25,6 @@ Contact Information
 
 * Email: yuanyu@yenw.cc
 
-* Twitter: https://twitter.com/yenwcc
+* Twitter: [yuanyu@yenwcc](https://twitter.com/yenwcc)
 
 * Github: https://github.com/yenw/yuanyu
