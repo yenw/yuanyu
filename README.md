@@ -30,3 +30,8 @@ Contact Information
 * Twitter: [yuanyu@yenwcc](https://twitter.com/yenwcc)
 
 * Github: https://github.com/yenw/yuanyu
+
+QA
+-------
+
+* [QA page](../master/QA_en.md)
