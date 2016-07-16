@@ -12,14 +12,19 @@ Screetnshot
 Downloads
 -------
 
-Unavailable
+* [Download page](https://github.com/yenw/yuanyu/download.md)
+
+History
+-------
+
+* [History page](https://github.com/yenw/yuanyu/history.md)
 
 
 Contact Information
 -------
 
-Email: yuanyu@yenw.cc
+* Email: yuanyu@yenw.cc
 
-Twitter: https://twitter.com/yenwcc
+* Twitter: https://twitter.com/yenwcc
 
-Github: https://github.com/yenw/yuanyu
+* Github: https://github.com/yenw/yuanyu
