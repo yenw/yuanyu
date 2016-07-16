@@ -12,12 +12,12 @@ Screetnshot
 Downloads
 -------
 
-* [Download page](https://github.com/yenw/yuanyu/download.md)
+* [Download page](../master/download.md)
 
 History
 -------
 
-* [History page](https://github.com/yenw/yuanyu/history.md)
+* [History page](../master/history.md)
 
 
 Contact Information
