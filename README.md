@@ -3,11 +3,6 @@ YuanYu
 
 YuanYu is a Go program.
 
-Screetnshot
--------
-
-![screetnshot](../master/screenshot.png?raw=true)
-![problem](../master/problem.png?raw=true)
 
 Downloads
 -------
@@ -18,6 +13,13 @@ History
 -------
 
 * [History page](../master/history.md)
+
+
+Screetnshot
+-------
+
+![screetnshot](../master/screenshot.png?raw=true)
+![problem](../master/problem.png?raw=true)
 
 
 Contact Information
