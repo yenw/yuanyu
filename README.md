@@ -1,4 +1,4 @@
-# yuanyu
+# YuanYu
 
 YuanYu is a Go program.
 
