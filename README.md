@@ -7,7 +7,7 @@ Screetnshot
 -------
 
 ![screetnshot](../master/screenshot.png?raw=true)
-![screetnshot2](../master/screenshot2.png?raw=true)
+![problem](../master/problem.png?raw=true)
 
 Downloads
 -------
