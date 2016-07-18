@@ -19,6 +19,7 @@ Screenshot
 -------
 
 ![screetnshot](../master/screenshot.png?raw=true)
+![estimate](../master/screenshot_estimate.png?raw=true)
 ![problem](../master/problem.png?raw=true)
 
 
